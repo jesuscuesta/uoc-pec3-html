@@ -1,0 +1,29 @@
+/* Main */
+.main__content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.main--title {
+  text-align: center;
+}
+
+.main__list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+iframe {
+  border: 0;
+}
+
+.main__list-card {
+  width: 500px;
+  background-color: #ececec;
+  margin: 20px 5px;
+}
+
+.main__list-desc {
+  padding: 15px;
+}
